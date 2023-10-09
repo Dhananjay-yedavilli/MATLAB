@@ -1,2 +1,2 @@
 # MATLAB
-Just some Fun Coding in MATLAB
+Code AI in MATLAB
